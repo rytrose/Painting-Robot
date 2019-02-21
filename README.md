@@ -21,7 +21,7 @@ First, upload the `painting_robot_motors.ino` sketch onto the Arduino. The five 
 | `baseRotate` | `5`		|
 | `baseLinear` | `6`		|
 
-Then, run `python -i motor_control.py`. This will by default connect to the first Arduino it finds connected. You can then use `s` object in the interpreter to send commands to the Arduino. 
+Then, run `python -i motor_control.py`. This will by default connect to the first Arduino it finds connected. You can then use the `s` object in the interpreter to send commands to the Arduino. 
 
 The list of commands implemented thus far are:
 
